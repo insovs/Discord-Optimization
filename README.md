@@ -21,6 +21,23 @@
 
 ---
 
+## 📊 Results
+
+> Measured on a clean Discord installation (Stable, fresh install) — no other optimizations applied.
+
+| | Before | After | Saved |
+|:---|:---:|:---:|:---:|
+| 💾 Disk size | 492 MB | 284 MB | **−208 MB (−42%)** |
+| 📄 Files | 1 075 | 227 | **−848 files (−79%)** |
+| 📂 Folders | 100 | 39 | **−61 folders (−61%)** |
+| 🧠 RAM (Task Manager) | 710.8 MB | 396.7 MB | **−314 MB (−44%)** |
+
+<div align="center">
+
+*Results may vary depending on Discord version, installed modules, and selected options.*
+
+</div>
+
 ## 📥 Installation / Usage
 
 ### Run the command below in PowerShell:
