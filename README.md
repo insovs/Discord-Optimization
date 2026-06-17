@@ -25,12 +25,8 @@
 
 > Measured on a clean Discord installation (Stable, fresh install) — no other optimizations applied.
 
-| | Before | After | Saved |
-|:---|:---:|:---:|:---:|
-| 💾 Disk size | 492 MB | 284 MB | **−208 MB (−42%)** |
-| 📄 Files | 1 075 | 227 | **−848 files (−79%)** |
-| 📂 Folders | 100 | 39 | **−61 folders (−61%)** |
-| 🧠 RAM (Task Manager) | 710.8 MB | 396.7 MB | **−314 MB (−44%)** |
+<img width="1923" height="817" alt="image" src="https://github.com/user-attachments/assets/7c6bb925-b16d-42c8-a17b-7944d8de28e1" />
+
 
 <div align="center">
 
